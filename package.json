@@ -1,7 +1,21 @@
 {
   "name": "fiscalize",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "http://fiscalize.wikificha.org/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wikificha/fiscalize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wikificha/fiscalize/issues",
+    "email": "fiscalize@wikificha.org"
+  },
+  "author": {
+    "name": "Gerardo Junior",
+    "email": "me@gerardo-junior.com",
+    "url": "http://gerardo-junior.com/"
+  },
   "devDependencies": {
     "react-native-scripts": "1.8.1",
     "jest-expo": "23.0.0",
@@ -22,5 +36,6 @@
     "expo": "^23.0.4",
     "react": "16.0.0",
     "react-native": "0.50.3"
-  }
+  },
+  "license": "MIT"
 }
