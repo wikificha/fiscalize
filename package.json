@@ -9,7 +9,7 @@
   },
   "bugs": {
     "url": "https://github.com/wikificha/fiscalize/issues",
-    "email": "fiscalize@wikificha.org"
+    "email": "issues@fiscalize.wikificha.org"
   },
   "author": {
     "name": "Gerardo Junior",
@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "expo": "^23.0.4",
+    "native-base": "^2.3.5",
     "react": "16.0.0",
     "react-native": "0.50.3"
   },
